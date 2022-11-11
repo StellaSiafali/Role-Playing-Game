@@ -22,13 +22,12 @@ Test
 
 ![1](https://user-images.githubusercontent.com/100956284/201400354-10c819f7-7e42-48e5-a8b1-3842b820c601.png)
 
-![kiniseis chatacter](https://user-images.githubusercontent.com/100956284/201400393-d5fdb849-c5b2-4482-a812-4d5c6c39448d.png)
+![kiniseis](https://user-images.githubusercontent.com/100956284/201400610-33a36202-e95a-4a28-aa65-4c742c6e18d3.png)
 
 ![background](https://user-images.githubusercontent.com/100956284/201400418-1b209c68-3fa6-46d1-9cec-d86910960d6a.png)
 
 ![diakosmitika](https://user-images.githubusercontent.com/100956284/201400450-caef72c6-97b0-407a-a254-d1df73dd9583.png)
 
-![kiniseis chatacter](https://user-images.githubusercontent.com/100956284/201400528-7aed40ab-2f8d-4393-8d7a-f6e436eb492e.png)
 
 
 
