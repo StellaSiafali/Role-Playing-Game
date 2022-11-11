@@ -40,7 +40,7 @@ Test
 
 Το τελικό παιχνίδι μου:
 
-![Screenshot (9)](https://user-images.githubusercontent.com/100956284/201402492-50239647-a650-4c48-8a60-4d9f62f33ab2.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/100956284/201402631-b8da9f39-f9cf-4a91-a77d-0d38a0ddc85d.png)
 
 
 
