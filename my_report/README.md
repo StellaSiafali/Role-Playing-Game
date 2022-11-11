@@ -20,7 +20,7 @@ Test
 
 ![character](https://user-images.githubusercontent.com/100956284/201400235-ede8b54e-2fb5-46df-a893-55f2046b5456.png)
 
-Το περιβάλλον του παιχνιδιού μου:
+***Το περιβάλλον του παιχνιδιού μου:***
 
 ![1](https://user-images.githubusercontent.com/100956284/201400354-10c819f7-7e42-48e5-a8b1-3842b820c601.png)
 
