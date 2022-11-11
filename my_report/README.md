@@ -20,13 +20,23 @@ Test
 
 ![character](https://user-images.githubusercontent.com/100956284/201400235-ede8b54e-2fb5-46df-a893-55f2046b5456.png)
 
+Το περιβάλλον του παιχνιδιού μου:
+
 ![1](https://user-images.githubusercontent.com/100956284/201400354-10c819f7-7e42-48e5-a8b1-3842b820c601.png)
+
+Κινήσεις του παίκτη μου:
 
 ![kiniseis](https://user-images.githubusercontent.com/100956284/201400610-33a36202-e95a-4a28-aa65-4c742c6e18d3.png)
 
+Το background μου:
+
 ![background](https://user-images.githubusercontent.com/100956284/201400418-1b209c68-3fa6-46d1-9cec-d86910960d6a.png)
 
+Αντκείμενα διακόσμησης του background μου:
+
 ![diakosmitika](https://user-images.githubusercontent.com/100956284/201400450-caef72c6-97b0-407a-a254-d1df73dd9583.png)
+
+
 
 
 
