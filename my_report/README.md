@@ -83,13 +83,22 @@ Test
 
 ### ***Screenshots κώδικα παιχνιδιού:***
 
+#### NinjaController
 |                                        |                                        |
 |:-----------------------------------------:|:----------------------------------------------------:|
-|![](https://user-images.githubusercontent.com/100956284/208259446-ee975390-2cbc-4583-a794-f5c7150a9751.png)|![](https://user-images.githubusercontent.com/100956284/208259481-8bad13fd-1379-41ad-beef-d355d6638a93.png)
-|![](https://user-images.githubusercontent.com/100956284/208259516-71eee192-1b8f-4db0-8281-35b53b6a84a8.png)|![](https://user-images.githubusercontent.com/100956284/208259558-c96bd201-f524-4fff-9b59-c8a9db221fb1.png)|
-|![](https://user-images.githubusercontent.com/100956284/208259652-595cb912-3305-4737-9007-1950fdc6beec.png)|![](https://user-images.githubusercontent.com/100956284/208259481-8bad13fd-1379-41ad-beef-d355d6638a93.png)
-|![](https://user-images.githubusercontent.com/100956284/208259712-fc458aa7-43bb-4d20-8cd6-8874386eb160.png)|![](https://user-images.githubusercontent.com/100956284/208259765-6502f039-5ccf-4496-a45d-c0eb1fd84e80.png)
-|![](https://user-images.githubusercontent.com/100956284/208259832-3858a1d1-3f5f-4856-b248-54c8a3c97c7a.png)|
+|![](https://user-images.githubusercontent.com/100956284/208264570-33f9bf96-2864-4dfa-831a-526eaa734811.png)|![](https://user-images.githubusercontent.com/100956284/208264586-a4030a6d-856d-4366-b3de-af936f6ada6b.png)|
+![](https://user-images.githubusercontent.com/100956284/208264776-aef55bad-1d32-44ef-8e77-f517c1a10973.png)|
+
+#### EnenyController
+|                                        |                                        |
+|:-----------------------------------------:|:----------------------------------------------------:|
+|![](https://user-images.githubusercontent.com/100956284/208264947-ff346ab0-d6c8-4610-8baa-a6ac5467d4ed.png)|![](https://user-images.githubusercontent.com/100956284/208264954-c87d947c-4359-458c-80eb-e8fec7c974d4.png))|
+![](https://user-images.githubusercontent.com/100956284/208264957-fea7f292-2df3-4c39-a619-4db5e8a2c206.png)|
+
+#### HealthCollectible + Projectile
+|                                        |                                        |
+|:-----------------------------------------:|:----------------------------------------------------:|
+|![](https://user-images.githubusercontent.com/100956284/208265016-3704a03e-5394-4dd1-b699-608eb136e3b8.png)|![](https://user-images.githubusercontent.com/100956284/208265031-85a07385-1ce2-4c0a-9390-6456543b001e.png)|
 
 Τελευταίο βήμα ήταν να κάνω Build το παιχνίδι μου, όπως και στο 1ο παρδοτό. Έτρεξα μία τελευταία φόρα το παιχνόδι μου, δίνοντας το και σε φίλους μου να το παίξουν και αφόυ βεβαιώθηκα ότι λειτουργούσαν όλα όπως τα είχα προγραμματίσει και σχεδιάσει προχώρησα στο βήμα αυτό και ολοκλήρωσα το 2ο παραδοτεό.
 
